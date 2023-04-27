@@ -22,6 +22,9 @@ We welcome contributions to the ChatGPT 2.0 project! If you're interested in con
 
 ## Screenshots
 [!image](https://camo.githubusercontent.com/fb037e90eb92f3f53e79f2f0fdada922a8e6f3664140710f0c3691a808b675b6/68747470733a2f2f692e6962622e636f2f5452354c57397a2f696d6167652e706e67)
+
 [!image1](D:\ChatGPT-2.0\resources\images\OpenAI _ Sign In.png)
+
 [!image2](D:\ChatGPT-2.0\resources\images\OpenAI _ ChatGPT.png)
+
 [!image3](D:\ChatGPT-2.0\resources\images\OpenAI _ ChatGPT (1).png)
