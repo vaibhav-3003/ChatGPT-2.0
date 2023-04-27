@@ -1,0 +1,29 @@
+/* App.css */
+@import '../../../App.css';
+
+/* variables.css */
+@import '../../../index.css';
+
+/* brand.css */
+@import '../../views/components/brand/brand.css';
+
+/* header.css */
+@import '../../views/components/header/header.css';
+
+/* whatGPT3.css */
+@import '../../views/components/whatGPT3/whatGPT3.css';
+
+/* feature.css */
+@import '../../views/components/feature/feature.css';
+
+/* features.css */
+@import '../../views/components/features/features.css';
+
+/* possibility.css */
+@import '../../views/components/possibility/possibility.css';
+
+/* cta.css */
+@import '../../views/components/cta/cta.css';
+
+/* footer.css */
+@import '../../views/components/footer/footer.css';
