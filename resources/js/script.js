@@ -71,7 +71,7 @@ document.addEventListener("DOMContentLoaded", function () {
   
   function chatStripe(isAi, value, uniqueId) {
     return `
-          <div class="w-full text-gray-200  py-4 ${isAi && "bg-[#031B34] text-gray-200"}">
+          <div class="w-full text-gray-200  py-4 ${isAi && "bg-gray-700 text-gray-200"}">
               <div class="w-11/12 max-w-1280 mx-auto flex flex-row items-start gap-2.5">
                   <div class="rounded-md flex justify-center items-center">
                     ${

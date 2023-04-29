@@ -40,8 +40,7 @@ class LoginErrorHandler
                                 //redirect user to welcome page
                                 header("location: /openai/chat");
                             } else {
-                                $err = 'These credentials are not matched';
-                                return array($email_err,$password_err,$err);
+                                $password_err = 'Password is incorrect';
                             }
                         }
                     } else {
@@ -50,6 +49,8 @@ class LoginErrorHandler
                 }
             }
         }
+
+        return array($email_err, $password_err, $err);
         
     }
 }

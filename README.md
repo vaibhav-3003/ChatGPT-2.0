@@ -21,10 +21,6 @@ Once you've successfully started the ChatGPT 2.0 application, you can begin usin
 We welcome contributions to the ChatGPT 2.0 project! If you're interested in contributing, please fork this repository and submit a pull request with your changes. We'll review your changes and work with you to get them merged into the main branch.
 
 ## Screenshots
-[!image](https://camo.githubusercontent.com/fb037e90eb92f3f53e79f2f0fdada922a8e6f3664140710f0c3691a808b675b6/68747470733a2f2f692e6962622e636f2f5452354c57397a2f696d6167652e706e67)
-
-[!image1](D:\ChatGPT-2.0\resources\images\OpenAI _ Sign In.png)
-
-[!image2](D:\ChatGPT-2.0\resources\images\OpenAI _ ChatGPT.png)
-
-[!image3](D:\ChatGPT-2.0\resources\images\OpenAI _ ChatGPT (1).png)
+![OpenAI _ Sign In](https://user-images.githubusercontent.com/105808552/234792035-fa6c81ff-ba01-443f-b848-48246cc7f5b2.png)
+![OpenAI _ ChatGPT](https://user-images.githubusercontent.com/105808552/234792078-aa0c8835-f173-4379-bdf9-2f49ac97afe9.png)
+![OpenAI _ ChatGPT (1)](https://user-images.githubusercontent.com/105808552/234792102-3d4fe79d-4b4f-4816-8810-157fceefd967.png)
